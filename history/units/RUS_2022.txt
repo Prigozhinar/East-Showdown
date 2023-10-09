@@ -3008,6 +3008,17 @@ units = {
 			is_name_ordered = yes
 			name_order = 89
 		}
+		location = 1868
+		division_template = "Motostrelkoviy batalion"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.01
+	}
+		division = {
+		# "1 motostrelkovyy Batalon 138 motostrelkovyy brigady"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 89
+		}
 		location = 16040
 		division_template = "Motostrelkoviy batalion"
 		start_experience_factor = 0.1
