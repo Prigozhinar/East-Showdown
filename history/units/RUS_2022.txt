@@ -1253,6 +1253,17 @@ units = {
 		start_equipment_factor = 0.01
 	}
 	division = {
+		# "3 motostrelkovyy batalon 19 motostrelkovogo polka"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 18
+		}
+		location = 13379
+		division_template = "Motostrelkoviy batalion"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.01
+	}
+	division = {
 		# "1 sau batalon 19 motostrelkovoy brigady"
 		division_name = {
 			is_name_ordered = yes
@@ -2184,6 +2195,28 @@ units = {
 			name_order = 6
 		}
 		location = 3902
+		division_template = "Marines batalion"
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.01
+	}
+	division = {
+		# "4 batalon morskoy pekhoty 61 brigady morskoy pekhoty"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 6
+		}
+		location = 12480
+		division_template = "Marines batalion"
+		start_experience_factor = 0.6
+		start_equipment_factor = 0.01
+	}
+	division = {
+		# "4 batalon morskoy pekhoty 61 brigady morskoy pekhoty"
+		division_name = {
+			is_name_ordered = yes
+			name_order = 6
+		}
+		location = 12632
 		division_template = "Marines batalion"
 		start_experience_factor = 0.6
 		start_equipment_factor = 0.01
